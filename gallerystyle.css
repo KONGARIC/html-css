@@ -1,0 +1,15 @@
+.container {
+    background-color:#eee;
+    width: 80%;
+    margin: 2% auto;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+  }
+  .container  img{
+      width: 100%;
+  }
+  
+  
+
+
